@@ -1,5 +1,5 @@
 Name:		om-welcome-breeze
-Version:	2.3.0.11
+Version:	2.3.0.12
 Release:	1
 Summary:	OpenMandriva Lx Welcome Page
 License:	GPLv2
